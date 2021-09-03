@@ -1,6 +1,8 @@
 # Learning PWA concepts
 This application was created in the course: [Progressive Web Apps: The Concise PWA Masterclass](https://www.udemy.com/course/progressive-web-apps/).
 
+In this app you can take pictures, give then a caption, and send to the server. The server will then send updates to all subscribed sockets.
+
 ## What I've learned
 
 * Concepts, challenges and application of Progressive Web Apps
